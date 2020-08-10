@@ -1,9 +1,0 @@
-
-
-#		elif eastate == 'veiw':
-						  #			c.execute("SELECT * FROM add  ")
-						  #			 for a in c.fetchall():
-						  #					print("thankyuo")
-						  #		elif eastate == '3':
-						  #			print("goodbye")
-						  #			break
